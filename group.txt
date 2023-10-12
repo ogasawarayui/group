@@ -1,8 +1,8 @@
-header 
-nav 
-article 
-section 
-main 
-aside 
-footer 
-div
+header 文書やセクションのヘッダー
+nav ウェブページ上のナビゲーションリンク
+article HTML文書内の主要なコンテンツ
+section 見出しを伴う章や節などのセクション
+main HTML文書内の独立した記事セクション
+aside 脚注や用語の説明などの補足情報
+footer 文書やセクションのフッター
+div　ロックレベル要素としてグループ化
